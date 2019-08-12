@@ -1,2 +1,3 @@
-# Estudos
-Alguns códigos feitos na faculdade e alguns estudos independentes
+﻿# Estudos
+
+Alguns códigos feitos na faculdade e estudos independentes
