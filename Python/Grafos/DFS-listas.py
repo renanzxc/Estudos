@@ -52,7 +52,7 @@ def inicializar(N):
 N=4
 l=inicializar(N)
 
-#l[u].pushback(v) torna v adjacente a u
+#l[u].append(v) torna v adjacente a u
 l[1].append(2)
 l[2].append(3)
 l[3].append(3)
