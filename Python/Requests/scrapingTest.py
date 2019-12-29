@@ -7,7 +7,7 @@ class Orient:
     
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'}
 
-    link = "http://www.orientcinemas.com.br/programacao/20/orient-cinemas-cariri-garden-shopping.html"
+    link = "link"
 
     req = requests.get(link, headers=headers)
     if req.status_code == 200:
