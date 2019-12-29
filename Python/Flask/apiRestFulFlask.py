@@ -62,7 +62,7 @@ class UpdatePerson(Resource):
         for person in people:
             if person['name'] == name:
                 del people[i]
-                return {'mensasge': 'person removed with sucessful'}, 200
+                return {'menssage': 'person removed with sucessful'}, 200
             i+=1
 
 api.add_resource(Index, '/people')
